@@ -80,7 +80,7 @@ library.add(faArrowRight,faBackward,faCalculator,faChevronDown,faChevronRight,fa
 let DefaultIcon = L.icon({
     iconUrl: icon,
     shadowUrl: iconShadow,
-    conSize: [25, 41],
+    iconSize: [25, 41],
     iconAnchor: [13, 41]
 });
 
