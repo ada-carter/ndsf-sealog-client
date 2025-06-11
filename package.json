@@ -55,7 +55,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test","yolo-server": "node tools/yolo_server.js",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
